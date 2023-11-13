@@ -24,7 +24,7 @@ Furthermore, the extracted data is formatted into a JSON file and transmitted to
    - Ensure proper Modbus communication setup.
 
 2. **ESP32 Configuration:**
-   - Flash the ESP32 with the provided firmware to handle Modbus communication and data processing.
+   - Flash the ESP32 with the provided firmware to handle Modbus, CAN and MQTT communication and data processing.
 
 3. **Inverter Configuration:**
    - Configure the datalogger to generate CAN messages with the specific protocols for each inverter.
