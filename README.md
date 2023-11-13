@@ -37,4 +37,7 @@ Furthermore, the extracted data is formatted into a JSON file and transmitted to
   
      
 ![1](https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/ede98c93-8d37-4519-afa1-06e0231fdcee)
+![2](https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/e37657f0-226f-406c-b04e-889b11540b96)
+![3](https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/ed08c023-5502-4a47-9554-5d04b9962678)
+![4](https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/2f5a57db-26e2-4d34-a097-673ef2c2964d)
 
