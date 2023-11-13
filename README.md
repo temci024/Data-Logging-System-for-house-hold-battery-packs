@@ -3,7 +3,7 @@ Industrial Level Projects
 
 ## Overview
 
-This project involves the design and implementation of a datalogging system for monitoring and managing household battery packs. The datalogging system is positioned between the inverter and 16 parallel-connected battery packs. The communication between the battery packs and the datalogger hardware is established using Modbus protocol, facilitated by an ESP32 microcontroller. The datalogger extracts data from the battery packs, decodes the Modbus reply, and utilizes the information to generate CAN messages with different protocols tailored for various inverters.
+This project involves the design and implementation of a datalogging system for monitoring and managing household battery packs. The datalogging system is positioned between the inverter and battery packs. The communication between the battery packs and the datalogger hardware is established using Modbus protocol, facilitated by an ESP32 microcontroller. The datalogger extracts data from the battery packs, decodes the Modbus reply, and utilizes the information to generate CAN messages with different protocols tailored for various inverters.
 
 Furthermore, the extracted data is formatted into a JSON file and transmitted to the backend through MQTT protocol. The backend then facilitates the display of battery data on a mobile app developed by our company.
 
@@ -20,7 +20,7 @@ Furthermore, the extracted data is formatted into a JSON file and transmitted to
 ## Usage
 
 1. **Datalogger Setup:**
-   - Connect the datalogger hardware between the inverter and 16 parallel-connected battery packs.
+   - Connect the datalogger hardware between the inverter and battery packs.
    - Ensure proper Modbus communication setup.
 
 2. **ESP32 Configuration:**
