@@ -36,9 +36,8 @@ Furthermore, the extracted data is formatted into a JSON file and transmitted to
    - Install the mobile app developed by our company to monitor and display battery data.
   
 ** Battery Data Visualization in Mobile App
-<img src="https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/ede98c93-8d37-4519-afa1-06e0231fdcee" width="400">
-<img src="https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/e37657f0-226f-406c-b04e-889b11540b96" width="400">
-<img src="https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/ed08c023-5502-4a47-9554-5d04b9962678" width="400">
-<img src="https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/2f5a57db-26e2-4d34-a097-673ef2c2964d" width="400">
-
+<img src="https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/ede98c93-8d37-4519-afa1-06e0231fdcee" width="300">
+<img src="https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/f0c278a8-6c6b-4998-889a-7ac5a73ec177" width="300">
+<img src="https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/ed08c023-5502-4a47-9554-5d04b9962678" width="300">
+<img src="https://github.com/temci024/Data-Logging-System-for-house-hold-battery-packs/assets/129023792/2f5a57db-26e2-4d34-a097-673ef2c2964d" width="300">
 
